@@ -5,6 +5,6 @@
 
 2.run the exe file
 
-3.enter your level and mp
+3.choose your class,enter your level and mp
 
 4.click the button beside and done!
